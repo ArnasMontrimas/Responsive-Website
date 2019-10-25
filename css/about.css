@@ -1,0 +1,122 @@
+@media screen and (min-width: 460px) and (max-width: 799px) {
+    #bodyFooter {
+        text-align: center;
+    }
+    main > section p {
+        height: 5em;
+    }
+    main > section img {
+        border-top: 2.5px solid #EF8354;
+        border-bottom: 2.5px solid #EF8354;
+        padding-bottom: 5px;
+    }
+    aside {
+        text-align: center;
+        font-size: 2em;
+        border-bottom: 2.5px solid #EF8354;
+    }
+    aside > h3 {
+        color: #EF8354;
+    }
+    aside > h3:nth-child(9), aside > h3:nth-child(17) {
+        margin-top: -50px;
+    }
+    #bannerImage {
+        border-bottom: 2.5px solid #EF8354;
+    }
+    main > aside > p:nth-child(6),main > aside > p:nth-child(14){
+        padding-bottom: 25px;
+        border-bottom: 2.5px solid #EF8354;
+    }
+    #bodyFooter article:nth-child(3) {
+        margin: 25px 0;
+    }
+}
+@media screen and (min-width: 800px) and (max-width: 1023px) {
+    #bodyFooter {
+        text-align: center;
+    }
+    main > section p {
+        height: 5em;
+    }
+    main > section img {
+        border-top: 2.5px solid #EF8354;
+        border-bottom: 2.5px solid #EF8354;
+        padding-bottom: 5px;
+    }
+    aside {
+        text-align: center;
+        font-size: 2em;
+        border-bottom: 2.5px solid #EF8354;
+    }
+    aside > h3 {
+        color: #EF8354;
+    }
+    aside > h3:nth-child(9), aside > h3:nth-child(17) {
+        margin-top: -50px;
+    }
+    main > section article {
+        width: 60%;
+        margin-right: 20%;
+        margin-left: 20%;
+    }
+    main > section {
+        margin-top: 25px;
+    }
+    #bodyFooter section article:nth-child(1), #bodyFooter section article:nth-child(2) {
+        width: 50%;
+        float: left;
+        padding-bottom: 50px;
+    }
+    #bannerImage {
+        border-bottom: 2.5px solid #EF8354;
+    }
+    main > aside > p:nth-child(6),main > aside > p:nth-child(14){
+        padding-bottom: 25px;
+        border-bottom: 2.5px solid #EF8354;
+    }
+    #bodyFooter article:nth-child(3) {
+        margin: 25px 0;
+    }
+}
+@media screen and (min-width: 1024px) {
+    #bodyFooter {
+        text-align: center;
+    }
+    main > section p {
+        height: 5em;
+    }
+    main > section img {
+        border-top: 2.5px solid #EF8354;
+        border-bottom: 2.5px solid #EF8354;
+        padding-bottom: 5px;
+    }
+    aside {
+        text-align: center;
+        font-size: 2em;
+        border-right: 2.5px solid #EF8354;
+        border-left: 2.5px solid #EF8354;
+    }
+    aside > h3 {
+        color: #EF8354;
+    }
+    main > section {
+        width: 60%;
+        display: inline-block;
+        margin-top: 25px;
+    }
+    #bodyFooter section article{
+        width: 31.3%;
+        float: left;
+        padding: 15px 1%;
+    }
+    aside {
+        width: 39%;
+        float: right;
+        margin-top: 25px;
+    }
+    #bannerImage {
+        border-bottom: 2.5px solid #EF8354;
+    }
+}
+
