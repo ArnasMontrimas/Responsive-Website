@@ -3,6 +3,7 @@ body {
     background-color: #15282E;
     margin: 0;
     padding: 0;
+    min-wdith: 460px;
     color: #D3D7DD; /* Old color #B9BFC9*/ /* Old color #CACFD6*/
     transition: font-size 0.5s linear;
 }
